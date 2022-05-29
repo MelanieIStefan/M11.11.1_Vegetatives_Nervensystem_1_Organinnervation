@@ -39,7 +39,74 @@ Vegetatives Nervensystem: Allgemeines
 Vegetatives Nervensystem: Allgemeines
 
 
-Abbildung: Input Stimulus, Sensorisches System, Motorsystem, Belohnzentrum, Entscheidungszentrum, limbisches System, Output
+Abbildung: brain_functions.png
+
+***********************
+Vegetatives Nervensystem: Alggemeines
+
+- nicht willentlich beeinflussbar
+
+- (Schnelle) Anpassung vegetativer FUnktionen des Koerpers an aktuelle Erfordernisse + Koordination von Organfunktion -> essentiell fuer Ueberleben
+
+- Funktionen:
+    - Unterstuetzung motorischer Leistung
+    - Koerperhomoeostase  - Aufrechterhaltung und Anpassung physiologischer Parameter
+    - Vegetative Reflexe - im engen Bereich, Anpassung an Belastungen Organismus
+
+- Beeinflusst Aktivitaet von:
+    -    Erfolgsorganen -> Regulierung glatte Muskulatur    
+    - Herzmuskulatur
+    - Druesen und sektretorische Gewebe
+    
+Motorneurone z.B. Vasokonstriktoren/dilatoren
+Sektretorische Neurone
+
+************************ [10:56]
+************************
+************************
+
+Vegetatives Nervensystem: Komponenten
+
+- Zentral und peripher
+
+- Peripher:
+    - Sympathikus (efferent)
+        - Nebennierenmark
+    - Parasympathikus (efferent)
+        - Enterisches Nervensystem
+    - Viszerale Afferenzen
+
+Symphathikus und Parasympathiskus koennen dieselben Zielorgane innervieren und synergistisch oder antagonistisch wirken
+
+
+[Abbildung: ZNS, Ganglion, Erfolgsorgan]
+
+[13:02]
+
+************************
+
+Vegetatives Nervensystem: Komponenten
+
+
+Unterschiede in Organisation
+
+Sympathikus &    Parasympathikus \\
+Praeganglionaerer zellkoerper im Brust- und Lendenmark   &   Praegangionaerer Zellkoerper im Hirnstamm und Sakralmark \\
+Ganglien organfern: prae- und paravertebral & Ganglien organnah und z.T. in Erfolgsorgan \\
+
+
+Transmitter und Rezeptoren
+
+Sympathikus &    Parasympathikus \\
+Praeganglionaerer Transmitter: ACh & Praeganglionaerer Transmitter: ACh \\
+Rezeptor: nAChR (Ionenkanal) & Rezeptor: nAChR (Ionenkanal) \\
+Postganglionaerer Transmitter: NA* & Postgangionaerer Transmitter: ACh \\
+Rezeptor: adrenerg (metabotrop) & Rezeptor: muskarinisch (metabotrop)
+
+* bis auf Schweissdruese: ACh -> muskarinischer Rezeptor
+
+************************ [16:34]
+
 
 
 
