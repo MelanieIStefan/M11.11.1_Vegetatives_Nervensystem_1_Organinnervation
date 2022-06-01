@@ -142,10 +142,11 @@ Vegetatives Nervensystem: Komponenten
 
 Unterschiede in Organisation
 
+\begin{tabular}{ll}
 Sympathikus &    Parasympathikus \\
 Praeganglionaerer zellkoerper im Brust- und Lendenmark   &   Praegangionaerer Zellkoerper im Hirnstamm und Sakralmark \\
 Ganglien organfern: prae- und paravertebral & Ganglien organnah und z.T. in Erfolgsorgan \\
-
+\end{tabular}
 
 Transmitter und Rezeptoren
 
@@ -159,6 +160,153 @@ Rezeptor: adrenerg (metabotrop) & Rezeptor: muskarinisch (metabotrop)
 
 ************************ [16:34]
 
+\begin{frame}
+\frametitle{Vegetatives Nervensystem: Komponenten}
+
+
+paravertebrale sympathische + parasympathische Ganglien: Divergenz -> Verbreitung von Informationen
+
+praevertebrale sympathische Ganglien: Konvergenz
+-> Integration von Informationen
+-> erhoeht Uebertragungserfolg
+
+[Picture Divergenz Konvergenz]
+
+Je mehr praeganglionaere Neurone ein postganglionaeres Neuron synaptisch innervieren, desto wahrscheinlicher ist es, dass eine Depolarisation erreicht werden kann, die positiv genug ist, um ein Aktionspotential auszuloesen
+
+Relais-Funktion: nur INformationsfranser, kann durch Konvergenz erreicht werden (paravertebrale sympathische Ganglien)
+
+
+\end{frame}
+
+************************ [19:31]
+
+\begin{frame}{Vegetatives Nervensystem: Komponenten - Nebennierenmark}
+
+= Sympathisches postganglionaeres Paraganglion -> Umschaltung auf Hormon
+
+
+[Abbildung Anatomie: Nebenniere eben niere, mark und Rinde, Chromaffinzelle mit Ca Kanal, Adrenalin, nAChR Sympathikus mit ACh, Blutstrom 80% Adrenalin, 20% Noradrenalin*****]
+
+***** check that thats right
+
+Nebennierenmark: aus Chromaffinzellen = endokrin wirksame postganglionaere Neurone = neuroendokrin
+
+Adrenalin: Stffwechselhormon, Stimulierung metabolischer Prozesse
+
+\end{frame}
+
+************************ [23:59]
+
+\begin{frame}{}
+Vegetatives Nervensystem: Komponenten - ES
+
+[Abbildung ENS MDT (Magen-Darm-Trakt), postganglionaer sympathisch, praeganglionare parasympathisch]
+
+ENS: 
+= Spezielles Nervenszsystem des Magen-Darm-Trakts
+- koordiniert Kontration Magen-Darm-Muskulatur
+- kann ZNS-unabhaenging funktionieren
+- funktionell parasympathisches Ganglion
+
+Funktionen enterisches Nervensystem (ENS)
+1. Koordination Kontraktion Muskulature MAgen-Darm-Trakt 
+-> unidirektionaler Transport von Oesophagus zu Anus
+
+2. IOnentransport
+-> Sekretion und Absoprtion
+3. Regulation lokale Blutzufuhr
+
+
+ENS ist in Lage, adequat auf lokale Stimul zu reagieren. Sympathikus und Parasympathikus greifen regulierend ein wenn noetig
+\end{frame}
+
+************************ [27:05]
+
+Komponenten ENS:
+Plexus myentericus (Auerbach)
+zwischen Ring- und Laengsmuskelschikt Muskularis externa -> Motorok MDT
+
+Plexus submucosus (Mei\ss ner)
+Submucosa des Duenn- und Dickdarms
+-> epitheliale Transportprozesse
+
+Innervierung durch VNS:
+Sympathikus:
+-> praevertebrale Ganglien
+-> distales Kolon und Rektum*
+
+Parasympathikus:
+-> N. vagus: Oesophagus bis proximales Kolon
+-> sakrale Segmente: distales Kolon und Rektum*
+
+
+
+*Sympathikus innterviert hier v.a. enterale Ganglienzellen udn glatte Muskulatur Blutgefaesse
+Parasympathikus innerviert hier v.a. Mukosa und Ringmuskulatur
+
+************************ [28:54]
+
+Vegetatives Nervensystem: Komponenten - ENS
+
+
+[Abbildung Effekte sympathisch, parasympathisch]
+
+Hirschsprungkrankheit:
+- ENS in Abschnitt Dickdarm nicht voll ausgebildet, da Vorlaeuferzellen nicht gesamte Laenge eingewadnert sind -> Verstopfung und Symptome Darmverschluss (keine Muskelkontraktion)
+
+Verdacht liegt vor, wenn Neugeborenes nicht binnen 24h Mekonium ausscheidet -> chirurgische Entfernung betroffener Darmanteil
+
+************************ 
+
+\begin{frame}{Frame Title}
+    
+
+Vegetatives Nervensystem: Komponenten - 
+Viszerale Afferenzen
+
+[Abbildung ZNS - viserale Afferenzen, (para) sympathische Efferenzen - Erfolgsorgan plus Pfeil von Geruch/Geschmack nach ZNS]
+
+Allgemeine viszerale Afferenzen (AVA)
+Chemo-, mehano- und Schmerzrezeptoren -> mechanische, thermische, metbolische und entzuendliche Zustaende
+
+Spezielle viszerale Afferenzen (SVA)
+Geruchsrezeptoren, Geschmacksrezeptoren
+-> externe Stimuli
+-> z.B. Speichelsekretion, Wuergereflex 
+
+
+Viszerale Schmerzen:
+-> starke Dehnung/Kontraktion ORganmuskulatur
+-> ueber spinale viszerale Afferenzen *nicht vagal)
+-> Rezeptoren in Serosa, am mesenterialansatz und *vermutlich) Organwaenden
+
+
+\end{frame}
+
+************************ [33:31]
+
+Viszerale Afferenzen
+
+Zellkoerper viszerale Afferenzen
+
+Ganglion inferius/superius; N. vague, thoralake, obere lumbale und sakrale Spinalganglien, Ganglion petrosum (arterielle Presso- und Chemorezeptoren)
+
+Axone viszerale Afferenzen
+
+in Nn vagi, Nn splanchnici und glossopharyngeus
+
+
+- nahezu alle projizieren zum NTS
+- modulieren vegetative Reflexe auf Rueckenmarksebene
+- koenne Bestandteil grosser Reflexboegen sein
+    - MDT -> Rueckenmark/Medulla oblongaa
+    - koennen vago-vagal sein
+    - koennen adnere Nerven mit einbeziehen
+- spinale Afferenzen oder Hirnnervenafferenz (v.a. vagal)
+
+
+************************ [34:36]
 
 
 
