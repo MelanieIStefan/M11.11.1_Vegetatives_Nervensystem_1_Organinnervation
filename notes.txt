@@ -286,13 +286,16 @@ Viszerale Schmerzen:
 
 ************************ [33:31]
 
-Viszerale Afferenzen
+\begin{frame}
+\frametitle{Viszerale Afferenzen}
 
-Zellkoerper viszerale Afferenzen
+\begin{block}{Zellkoerper viszerale Afferenzen}
 
-Ganglion inferius/superius; N. vague, thoralake, obere lumbale und sakrale Spinalganglien, Ganglion petrosum (arterielle Presso- und Chemorezeptoren)
+Ganglion inferius/superius; N. vagus, thoralake, obere lumbale und sakrale Spinalganglien, Ganglion petrosum (arterielle Presso- und Chemorezeptoren)
+\end{block}
 
-Axone viszerale Afferenzen
+
+\begin{block}{Axone viszerale Afferenzen}
 
 in Nn vagi, Nn splanchnici und glossopharyngeus
 
@@ -300,13 +303,20 @@ in Nn vagi, Nn splanchnici und glossopharyngeus
 - nahezu alle projizieren zum NTS
 - modulieren vegetative Reflexe auf Rueckenmarksebene
 - koenne Bestandteil grosser Reflexboegen sein
-    - MDT -> Rueckenmark/Medulla oblongaa
+    - MDT -> Rueckenmark/Medulla oblongata
     - koennen vago-vagal sein
     - koennen adnere Nerven mit einbeziehen
 - spinale Afferenzen oder Hirnnervenafferenz (v.a. vagal)
 
+\end{block}
+\end{frame}
 
-************************ [34:36]
+************************ [35:36]
+
+Verbinudungen im Vegetativen Nervensystem
+
+[Abbildung: Maybe use this:  https://en.wikipedia.org/wiki/Autonomic_nervous_system#/media/File:Sistema_Nervioso_Autonomo.svg]
+
 
 
 
