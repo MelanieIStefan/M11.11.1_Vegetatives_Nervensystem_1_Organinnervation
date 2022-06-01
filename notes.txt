@@ -1,3 +1,55 @@
+************************
+*** Learning Objectives
+************************
+
+Komponenten des vegetativen Nervensystems angeben und deren Aufbau beschreiben
+Botenstoffe und Rezeptoren des VNS benennen und zuordnen
+die  Synaptische Übertragung in den Ganglien de VNS beschreiben
+Mechanismen der Freisetzung von Botenstoffen aus postganglionären Axonen beschreiben
+Die Aufnahme der Botenstoffe im Zielorgan und weitere Signaltransduktion beschreiben
+
+
+
+************************
+*** IMPP Gegenstandskatalog
+************************
+
+14.1 Morphologische Grundlagen, Entwicklung, Wachstumsfaktoren
+
+funktionelle Organisation
+
+supraspinale und spinale Zentren des vegetativen Nervensystems; Einteilung des VNS (zusätzlich zum enterischen Nervensystem, s. 7.6 und 14.3.5) in sympathische und parasympathische Anteile; Organisation des vegetativen Nervensystems in prä- und postganglionäre Neurone; Innervation des Nebennierenmarks
+
+* autonome Störungen; kongenitale Neuropathien mit vegetativen Dysfunktionen
+
+14.2 Zelluläre und molekulare Mechanismen der Signaltransduktion im VNS
+
+14.2.1 synaptische Übertragung in den Ganglien
+
+nicotinerge und muscarinerge Acetylcholinrezeptoren; Grundlagen der Ganglienblocker, Cholinomimetika und Cholinesterasehemmer; Konvergenz und Divergenz bei der ganglionären Übertragung
+
+* Toxikologie der Cholinomimetika und Cholinesterasehemmer, z. B. Abusus
+von cholinomimetischen Drogen
+
+14.2.2 Informationsübertragung von postganglionären Axonen auf Zielorgane
+
+Überträgerstoffe; Co-Lokalisation von Transmittersubstanzen (z. B. Noradrenalin und Neuropeptid Y; Acetylcholin und VIP); präsynaptische Kontrolle der Transmitterfreisetzung; Autorezeptoren; Typen von Adrenozeptoren und Cholinozeptoren, Lokalisation in verschiedenen Zielorganen, Wirkungen auf Zielzellen: Second-messenger-Pfade und Zielfunktionen, Denervierungshypersensitivität; kompetitive und nicht-kompetitive Hemmung; Wirkung von α- und β-Mimetika und -Antagonisten; Wirkung von muscarinergen Agonisten und Antagonisten
+
+* Therapie der arteriellen Hyper- und Hypotonie;
+
+Autonomic failure, autonome Neuropathien (z. B. beim Diabetes); Systematrophien
+
+
+14.2.3 Synthese und Abbau der Überträgerstoffe
+
+Synthesewege und Reuptake-Mechanismen
+
+Reuptake-Hemmung und Hemmung von
+Second-messenger-Prozessen durch Pharmaka
+
+
+
+
 
 
 ************************
