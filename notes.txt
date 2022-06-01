@@ -108,7 +108,7 @@ Vegetatives Nervensystem: Alggemeines
 - Beeinflusst Aktivitaet von:
     -    Erfolgsorganen -> Regulierung glatte Muskulatur    
     - Herzmuskulatur
-    - Druesen und sektretorische Gewebe
+    - Druesen und sekretorische Gewebe
     
 Motorneurone z.B. Vasokonstriktoren/dilatoren
 Sektretorische Neurone
@@ -316,10 +316,6 @@ in Nn vagi, Nn splanchnici und glossopharyngeus
 Verbinudungen im Vegetativen Nervensystem
 
 [Abbildung: Maybe use this:  https://en.wikipedia.org/wiki/Autonomic_nervous_system#/media/File:Sistema_Nervioso_Autonomo.svg]
-
-
-
-
 
 ************************
 ************************
